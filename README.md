@@ -1,3 +1,10 @@
 # learn-git
-test repo to fork
-Additional text that will hopefully survive.
+
+Test repo to learn git.
+
+# Things covered
+* Forking
+* Cloning
+* Status
+* Adding
+* Pushing
