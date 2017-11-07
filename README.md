@@ -1,2 +1,9 @@
 # learn-git
-test repo to fork
+Test repo to learn git.
+
+# Things covered
+* Forking
+* Cloning
+* Status
+* Adding
+* Pushing
