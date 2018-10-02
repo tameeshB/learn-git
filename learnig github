@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std
+int main()
+{
+cout<<"Hello Bhaiya,i am learning how to use github";
+return o;
+}
